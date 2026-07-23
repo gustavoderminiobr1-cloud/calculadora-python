@@ -9,6 +9,12 @@ Um projeto simples de calculadora em Python, usado para praticar o fluxo de cont
 - `multiplicar(a, b)`
 - `dividir(a, b)`
 
+## Usando a calculadora (menu no terminal)
+
+```bash
+python main.py
+```
+
 ## Usando a calculadora com botões (interface gráfica)
 
 ```bash
